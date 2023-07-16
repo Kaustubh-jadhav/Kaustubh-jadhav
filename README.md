@@ -10,7 +10,7 @@
 - 💬 Ask me about **M E R N,JAVA, DevOps**
 
 - 📫 How to reach me **sonujadhav028@gmail.com**
-<div style="width:500px;height:500px;padding-bottom:76%;position:relative;align:right;"><img src="Ry6p.gif"/></div>
+<img align=right src="Ry6p.gif"/>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
