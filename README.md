@@ -39,7 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-jadhav&theme=tokyonight" alt="kaustubh-jadhav" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kaustubh-jadhav&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Kaustubh-jadhav&limit=5&theme=tokyonight_all_yearly_contributions=true)
 
 
 
