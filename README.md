@@ -2,7 +2,7 @@
 <h3 align="center">String[] Interest = {JAVA,CLOUD,DEVOPS,MERN};</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh-jadhav" /> </p>
 <div> <img src ="JAdhav Kaustubh.png"/></div>
-
+<img align=right src="Ry6p.gif" style="height:300px;width:300px;"/>
 - 🔭 I’m currently working on **CI/CD pipeline**
 
 - 🌱 I’m currently learning **AWS and DevOps**
@@ -10,7 +10,7 @@
 - 💬 Ask me about **M E R N,JAVA, DevOps**
 
 - 📫 How to reach me **sonujadhav028@gmail.com**
-<img align=right src="Ry6p.gif" style="height:300px;width:300px;"/>
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
